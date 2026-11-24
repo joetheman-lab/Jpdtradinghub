@@ -1,0 +1,2 @@
+# Jpdtradinghub
+JpdNewsTrade
